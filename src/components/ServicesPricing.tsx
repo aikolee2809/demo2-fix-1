@@ -27,7 +27,7 @@ const SERVICE_CATEGORIES: ServiceCategory[] = [
     title: 'CẮT & TẠO KIỂU',
     image:
       'https://res.cloudinary.com/kx53fq3l/image/upload/f_auto,q_auto:eco,dpr_auto,w_600/v1786445442/0805_5.jpg',
-    alt: 'Cắt và tạo kiểu tóc tại Triệu Tóc Đẹp',
+    alt: 'Cắt và tạo kiểu tóc tại Salon Tóc Đẹp',
     women: [
       {
         title: 'Cắt · Gội · Tạo Kiểu · Mask',
