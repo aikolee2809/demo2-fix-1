@@ -10,6 +10,7 @@ const VideoShowcase = lazy(() => import('@/components/VideoShowcase'));
 const ServicesPricing = lazy(() => import('@/components/ServicesPricing'));
 const Stylists = lazy(() => import('@/components/Stylists'));
 const BookingCTA = lazy(() => import('@/components/BookingCTA'));
+const CalBooking = lazy(() => import('@/components/CalBooking'));
 const Reviews = lazy(() => import('@/components/Reviews'));
 const MapSection = lazy(() => import('@/components/MapSection'));
 const Faq = lazy(() => import('@/components/Faq'));
@@ -96,6 +97,7 @@ function App() {
               <ServicesPricing />
               <Stylists />
               <BookingCTA />
+              <CalBooking />
               <Reviews />
               <MapSection />
               <Faq />
