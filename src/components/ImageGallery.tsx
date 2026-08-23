@@ -75,7 +75,7 @@ const ImageGallery = () => {
           >
             <span className="block">Diện mạo mới, tự tin hơn </span>
             <span className="mt-2 block font-display font-normal italic tracking-[-0.045em] text-[#75656A]">
-              Cùng Triệu Salon tại Lái Thiêu
+              Cùng Salon tại Lái Thiêu
             </span>
           </h2>
 
