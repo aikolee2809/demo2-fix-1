@@ -1,5 +1,5 @@
 const FOOTER_BG =
-  'https://res.cloudinary.com/kx53fq3l/image/upload/f_auto,q_auto,w_1000,c_fill,g_auto/v1786445904/footer.jpg';
+  'https://res.cloudinary.com/kx53fq3l/image/upload/f_auto,q_auto,w_1000,c_fill,g_auto/v1786445442/484978316_1808479776602735_1117950820531129718_n_1.jpg';
 
 export default function Footer() {
   const socials = [
