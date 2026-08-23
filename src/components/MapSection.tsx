@@ -159,7 +159,7 @@ export default function MapSection() {
             <div className="aspect-[16/9] w-full md:aspect-[21/9]">
               <iframe
                 src={MAP_EMBED_SRC}
-                title="Bản đồ vị trí salon Triệu Tóc Đẹp tại Lái Thiêu, Bình Dương"
+                title="Bản đồ vị trí salon Tóc Đẹp tại Lái Thiêu, Bình Dương"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
