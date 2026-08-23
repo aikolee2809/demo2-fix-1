@@ -34,7 +34,7 @@ export default function Footer() {
                 className="text-white tracking-tight"
                 style={{ fontFamily: "'Newsreader', serif", fontSize: '22px', fontWeight: 400 }}
               >
-                TRIỆU TÓC ĐẸP
+                TÓC ĐẸP
               </span>
               <p
                 className="text-[13px] leading-[1.8] text-white/50"
