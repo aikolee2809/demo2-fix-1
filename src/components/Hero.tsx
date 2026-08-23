@@ -113,7 +113,7 @@ const Hero = forwardRef<HTMLElement, HeroProps>(({ visible }, ref) => {
           }}
           aria-hidden={!contentVisible}
         >
-          Triệu Salon
+          Salon
         </h1>
 
         <div className="hero-normal-content" aria-hidden={!contentVisible}>
