@@ -88,7 +88,7 @@ const Hero = forwardRef<HTMLElement, HeroProps>(({ visible }, ref) => {
         preload="metadata"
         poster={isMobile ? HERO_POSTER_MOBILE : undefined}
         src={isMobile ? HERO_VIDEO_MOBILE : HERO_VIDEO_DESKTOP}
-        aria-label="Không gian salon Triệu Salon"
+        aria-label="Không gian Salon"
         className="absolute inset-0 h-full w-full object-cover object-center"
       />
 
